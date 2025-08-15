@@ -1,0 +1,67 @@
+{
+  "entryButtons": [
+    {
+      "path": "/be",
+      "label": "Be"
+    },
+    {
+      "path": "/play",
+      "label": "Play"
+    },
+    {
+      "path": "/create",
+      "label": "Create"
+    },
+    {
+      "path": "/connect",
+      "label": "Connect"
+    },
+    {
+      "path": "/influence",
+      "label": "Influence",
+      "locked": true
+    }
+  ],
+  "sefirot": [
+    {
+      "path": "/s/keter",
+      "label": "כתר"
+    },
+    {
+      "path": "/s/chokhma",
+      "label": "חכמה"
+    },
+    {
+      "path": "/s/bina",
+      "label": "בינה"
+    },
+    {
+      "path": "/s/chesed",
+      "label": "חסד"
+    },
+    {
+      "path": "/s/gevurah",
+      "label": "גבורה"
+    },
+    {
+      "path": "/s/tiferet",
+      "label": "תפארת"
+    },
+    {
+      "path": "/s/netzach",
+      "label": "נצח"
+    },
+    {
+      "path": "/s/hod",
+      "label": "הוד"
+    },
+    {
+      "path": "/s/yesod",
+      "label": "יסוד"
+    },
+    {
+      "path": "/s/malkhut",
+      "label": "מלכות"
+    }
+  ]
+}

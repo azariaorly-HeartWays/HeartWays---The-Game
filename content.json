@@ -1,0 +1,23 @@
+{
+  "intro": "ברוכה הבאה ל-HeartWays — המסע האישי שלך דרך Be, Play, Create, Connect, ובהמשך Influence.",
+  "be": {
+    "title": "Be",
+    "desc": "חיבור פנימי, נשימה, איזון רגשי."
+  },
+  "play": {
+    "title": "Play",
+    "desc": "משחקים קוגניטיביים ו-Inner Lab."
+  },
+  "create": {
+    "title": "Create",
+    "desc": "כתיבה, מוזיקה, אמנות, קול."
+  },
+  "connect": {
+    "title": "Connect",
+    "desc": "Global Message Capsule וחיבורים עדינים."
+  },
+  "influence": {
+    "title": "Influence",
+    "desc": "השפעה טובה בעולם — נפתח בשלב מתקדם."
+  }
+}
