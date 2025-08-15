@@ -1,5 +1,5 @@
 import BackToBe from '../../components/BackToBe'
-export default function Keter(){
+export default function keter(){
   return (
     <div className="card">
       <h2 className="title">כתר — Vision</h2>
